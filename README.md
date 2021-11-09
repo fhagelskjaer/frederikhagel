@@ -2,7 +2,9 @@ My name is Frederik Hagelskjaer. I'm a PostDoc at (SDU) University of Southern D
 
 My main interests are computer vision and deep learning. I work with both 2D and point cloud data, and my main interest is pose estimation. However, I also work with many other data processing methods.
 
-I am currently looking for different ways to process very large point cloud data using neural networks. I you have any interesting ideas just contact me.
+I am currently looking for different ways to process very large point cloud data using neural networks. I you have any interesting ideas just contact me at:
+
+frhag _AT_ mmmi _DOT_ sdu _DOT_ dk
 
 <!---
 
