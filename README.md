@@ -10,11 +10,10 @@ One of my current projects is training deep neural networks for pose estimation 
 
 __Bridging the Reality Gap for Pose Estimation Networks using Sensor-Based Domain Randomization__
 
-<!---
+A visualization of the method in action is shown below:
 
-Here are some images from different projects I have worked with:
 
---->
+![](new_project.gif)
 
 <!---
 frederikhagel/frederikhagel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
