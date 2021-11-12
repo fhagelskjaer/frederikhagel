@@ -6,6 +6,10 @@ I am currently looking for different ways to process very large point cloud data
 
 frhag _AT_ mmmi _DOT_ sdu _DOT_ dk
 
+One of my current projects is training deep neural networks for pose estimation using only synthetic data. Check out the paper:
+
+__Bridging the Reality Gap for Pose Estimation Networks using Sensor-Based Domain Randomization__
+
 <!---
 
 Here are some images from different projects I have worked with:
