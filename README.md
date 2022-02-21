@@ -1,4 +1,4 @@
-My name is Frederik Hagelskjaer. I'm a PostDoc at (SDU) University of Southern Denmark.
+My name is Frederik Hagelskjaer. I'm a PostDoc at University of Southern Denmark (SDU).
 
 My main interests are computer vision and deep learning. I work with both 2D and point cloud data, and my main interest is pose estimation. However, I also work with many other data processing methods.
 
